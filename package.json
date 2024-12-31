@@ -1,0 +1,34 @@
+{
+      "name": "nuxt-social-media",
+      "private": true,
+      "scripts": {
+        "dev": "npx nuxt dev",
+        "build": "npx nuxt build",
+        "start": "npx nuxt start",
+        "generate": "npx nuxt generate"
+      },
+      "dependencies": {
+        "nuxt": "^3.0.0",
+        "nuxt-file-storage": "^1.0.0",
+        "@prisma/nuxt": "^1.0.0",
+        "nuxt-mongoose": "^1.0.0",
+        "@nuxtjs/google-fonts": "^1.0.0",
+        "nuxt-icon": "^1.0.0",
+        "nuxt-ui": "^1.0.0",
+        "vuex": "^4.0.0",
+        "@nuxt/http": "^1.0.0",
+        "nuxt-api-party": "^1.0.0",
+        "@sidebase/nuxt-auth": "^1.0.0",
+        "@hebilicious/authjs-nuxt": "^1.0.0",
+        "nuxt-auth-utils": "^1.0.0",
+        "nuxt-graphql-client": "^1.0.0",
+        "nuxt-graphql-server": "^1.0.0",
+        "nuxt-devtools": "^1.0.0",
+        "@nuxt/test-utils": "^1.0.0",
+        "@nuxt/eslint": "^1.0.0",
+        "@nuxtjs/eslint-module": "^1.0.0"
+      },
+      "devDependencies": {
+        "tailwindcss": "^3.0.0"
+      }
+    }
